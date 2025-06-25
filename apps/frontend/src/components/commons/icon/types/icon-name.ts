@@ -1,0 +1,12 @@
+export type IconName =
+  | 'customer'
+  | 'product'
+  | 'service'
+  | 'list'
+  | 'orders'
+  | 'add'
+  | 'pet'
+  | 'edit'
+  | 'order'
+  | 'menu'
+  | 'delete'

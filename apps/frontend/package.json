@@ -1,0 +1,33 @@
+{
+  "name": "@world-beauty/app-2",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@radix-ui/react-slot": "1.1.0",
+    "@world-beauty/core": "*",
+    "clsx": "2.1.1",
+    "lucide-react": "0.441.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-modern-drawer": "1.4.0",
+    "react-router-dom": "6.26.2"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.2",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "@world-beauty/typescript-config": "*",
+    "autoprefixer": "10.4.20",
+    "globals": "^15.9.0",
+    "postcss": "8.4.45",
+    "tailwindcss": "3.4.11",
+    "vite": "^5.4.1"
+  }
+}

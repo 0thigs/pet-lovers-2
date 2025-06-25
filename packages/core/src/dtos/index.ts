@@ -1,0 +1,8 @@
+export type { CustomerDto } from './customer-dto'
+export type { DocumentDto } from './document-dto'
+export type { ProductDto } from './product-dto'
+export type { ServiceDto } from './service-dto'
+export type { PhoneDto } from './phone-dto'
+export type { OrderDto } from './order-dto'
+export type { ItemDto } from './item-dto'
+export type { PetDto } from './pet-dto'
