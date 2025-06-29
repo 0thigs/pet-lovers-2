@@ -33,7 +33,7 @@ npm install
 ### Acesse a pasta da aplicação React
 
 ```bash
-cd apps/frontend
+cd pet-lovers-2/apps/frontend
 ```
 
 ### Execute a aplicação React
